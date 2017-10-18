@@ -4,3 +4,70 @@
 	color:#E91E63;
 
 }
+
+/*
+Redes Sociales
+ */
+
+.fa {
+	 font-size: 30px;
+      border-radius: 50%;
+      padding: 10px;
+      text-decoration: none;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+/*
+footer
+ */
+
+footer{
+	position: fixed;
+	bottom: 0px;
+	width: 100%;
+	height: 30px;
+	background:#607D8B; 
+
+}
+
+.barra{
+
+	width:100%;
+	height:10px;
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
+	background-color:#54E3E3;
+}
+
+
+
+
